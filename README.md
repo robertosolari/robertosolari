@@ -4,4 +4,3 @@
 - 📫 How to reach me email: robertosolaridev@gmail.com 
 - :briefcase: LinkedIn: https://www.linkedin.com/in/roberto-solari-dev/
 - :writing_hand: Medium Blog: https://medium.com/@robertosolaridev 
-- :link: Zwap: https://zwap.in/Roberto_dev
