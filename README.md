@@ -57,5 +57,5 @@ I turn ideas into working products: MVPs, custom web applications and AI-powered
 ---
 
 <p align="center">
-  💼 <b>Open to freelance projects</b> — <a href="https://robertosolari.netlify.app">robertosolari.netlify.app</a>
+  💼 <b>Open to freelance projects</b> — <a href="https://robertosolari.com">https://robertosolari.com</a>
 </p>
